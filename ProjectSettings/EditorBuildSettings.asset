@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI/Dynamic GUI.unity
+    guid: 40cc9be3301d98040b6dfd28d92c1fde
+  - enabled: 1
+    path: Assets/Scenes/Camera Management/Cameras Playground.unity
+    guid: ccfe5b9d992dae0479c9fc711b0884a9
+  - enabled: 1
+    path: Assets/Scenes/Character Movement/Character Playground.unity
+    guid: 0bf1cf95fab595b439326aec4c3834ab
   m_configObjects: {}

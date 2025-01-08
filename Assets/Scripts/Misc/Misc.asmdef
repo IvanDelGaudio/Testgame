@@ -1,0 +1,17 @@
+{
+    "name": "Misc",
+    "rootNamespace": "Misc",
+    "references": [
+        "GUID:884a6bdded31bb440984089155a97ccd",
+        "GUID:62bbaf41dd6550b4da45a7ffbefc316a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
